@@ -39,6 +39,9 @@ dependencies:
   collection: ^1.18.0
   build_runner: ^2.4.8
   json_serializable: ^6.8.0
+  easy_stepper: ^0.8.5
+  flutter_rating_stars: ^1.1.0
+  fan_carousel_image_slider: ^1.0.1
 
 dev_dependencies:
   flutter_test:

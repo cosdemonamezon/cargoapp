@@ -39,10 +39,10 @@ class _FirstPageState extends State<FirstPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text('${titlePage}'),
-        centerTitle: true,
-      ),
+      // appBar: AppBar(
+      //   title: Text('${titlePage}'),
+      //   centerTitle: true,
+      // ),
       extendBody: true,
       body: SafeArea(
         child: PageStorage(
